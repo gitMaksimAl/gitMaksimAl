@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: [&#9997;](mailto:maksim.g00gle@gmail.com)
 
-- [&#10004;] one
-- [&#10004;] two
-- [&#10004;] three
-- [&#10004;] four
+- [ ] one
+- [x] two
+- [x] three
+- [ ] four
