@@ -9,4 +9,4 @@
 - [x] Do something!
 - [x] Learn!
 - [ ] Work!
-- [ ] Ride!
+- [x] Ride!
